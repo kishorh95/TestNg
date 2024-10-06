@@ -19,6 +19,7 @@ This Test Ng Project Involves Annotaions & Parameters:
 
 
 
-![image](https://github.com/user-attachments/assets/3b56a981-d29e-44a5-b2df-a72e49b4afdf)
+![image](https://github.com/user-attachments/assets/76cece44-ce6c-47ea-af3f-6828bca205f6)
+
 
 
